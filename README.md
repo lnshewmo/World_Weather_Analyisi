@@ -20,3 +20,8 @@
 
 Final itinerary map showing the route and info boxes:
 ![final_map](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
+## Required Deliverables
+- [Weather_Database](https://github.com/lnshewmo/World_Weather_Analysis/tree/main/Weather_Database)
+- [Vacation_Search](https://github.com/lnshewmo/World_Weather_Analysis/tree/main/Vacation_Search)
+- [Vacation_Itinerary](https://github.com/lnshewmo/World_Weather_Analysis/tree/main/Vacation_Itinerary)
